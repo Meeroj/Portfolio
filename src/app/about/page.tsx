@@ -2,13 +2,6 @@
 import type { NextPage } from "next";
 
 const About: NextPage = () => {
-  const CV = 'http://localhost:3000/about/resume.pdf'
-
-  const handleDownload = () => {
-
-    const pdfUrl = './resume.pdf';
-    window.open(CV, '_blank');
-  };
   return (
     <main>
       <section className="about section" id="about">
@@ -130,7 +123,7 @@ const About: NextPage = () => {
                             Tashkent of Information Technology University
                           </h4>
                           <p className="timeline-text">
-                          I started studying at TUIT from 2023. And I'm mastering the Sciences of that place at an excellent level.
+                          I started studying at TUIT from 2023. And I&apos;m mastering the Sciences of that place at an excellent level.
                           </p>
                         </div>
                         <div className="timeline-item">
@@ -139,10 +132,10 @@ const About: NextPage = () => {
                             <i className="fa fa-calendar" /> 2023
                           </h6>
                           <h4 className="timeline-title">
-                            Najot Ta'lim IT edu center
+                            Najot Ta&apos;lim IT edu center
                           </h4>
                           <p className="timeline-text">
-                          I started studying at Najot ta'lim from 2023. And I'm mastering the Sciences of that place at an excellent level.
+                          I started studying at Najot ta&apos;lim from 2023. And I&apos;m mastering the Sciences of that place at an excellent level.
                           </p>
                         </div>
                       </div>
@@ -191,7 +184,7 @@ const About: NextPage = () => {
                           <h4 className="timeline-title">Wordpress</h4>
                           <p className="timeline-text">
                             Since 2020 I started to learn Wordpress. I can
-                            install, Customize, &amp; fix bug on wordpress.{" "}
+                            install, Customize, &amp; fix bug on wordpress.
                           </p>
                         </div>
                         
