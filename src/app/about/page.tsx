@@ -16,7 +16,7 @@ const About: NextPage = () => {
               <div className="row">
                 <div className="about-text padd-15">
                   <h2>
-                    I am Your name a <span>Frontend Developer</span>
+                    I am a <span>Frontend Developer</span>
                   </h2>
                   <p>
                     Hi! My name is Meeroj. I am a Frontend developer, and I am
