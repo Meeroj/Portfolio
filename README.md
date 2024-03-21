@@ -42,5 +42,6 @@ npm run dev
 Technologies used in the project:
 
 *   ReactJS
+*   TypeScript
 *   NextJS App routes
 *   Custom hooks
