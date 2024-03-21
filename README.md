@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://meeroj-portfolio.netlify.app/](Portfolio_Deployed)
+[Portfolio_Deployed](https://meeroj-portfolio.netlify.app/)
 
   
   
