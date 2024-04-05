@@ -190,7 +190,7 @@ const About: NextPage = () => {
                           </h6>
                           <h4 className="timeline-title">ReactJs, NextJs, TypeScript</h4>
                           <p className="timeline-text">
-                          On October 16, 2023, I came to the educational center "Najot ta&apos;lim". And I got a lot of knowledge and skills from here
+                          On October 16, 2023, I came to the educational center &quot;Najot ta&apos;lim&quot;. And I got a lot of knowledge and skills from here
                           </p>
                         </div>
                         {/* Timeline Item end */}

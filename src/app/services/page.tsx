@@ -28,7 +28,7 @@ const Service: NextPage = () => {
         <div className="service-item-inner">
           <div className="icon" style={{display:'flex', alignItems:'center', justifyContent:'center'}}><TbBrandNextjs className="fa fa-paint-brush"/></div>
           <h4>Professional Nextjs User</h4>
-          <p>I use Nextjs technology very judiciously. This helps the clients' sites to appear higher in the search engine.
+          <p>I use Nextjs technology very judiciously. This helps the clients&apos; sites to appear higher in the search engine.
           </p>
         </div>
       </div>
