@@ -95,7 +95,7 @@ const About: NextPage = () => {
                             Self Taught (Programming)
                           </h4>
                           <p className="timeline-text">
-                            Since 2020 I started to learn Programming. I have
+                            Since 2019 I started to learn Programming. I have
                             learn Html, Css, Sass, JavaScript, Bootstrap. Now I
                             am a Professional Web Developer..
                           </p>
@@ -151,13 +151,11 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2019
+                            <i className="fa fa-calendar" /> 2020
                           </h6>
-                          <h4 className="timeline-title">Graphics Design</h4>
+                          <h4 className="timeline-title">HTML, Css, Bootstrap </h4>
                           <p className="timeline-text">
-                            From 2018 I am woking on Graphics Design. The
-                            software I use Photoshop, Illustrator for Graphics
-                            design.
+                            From 2020 I am woking on Web Developer. And wrote my first web sites. These sites are not perfect for me
                           </p>
                         </div>
                         {/* Timeline Item end */}
@@ -165,13 +163,11 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2020
+                            <i className="fa fa-calendar" /> 2021
                           </h6>
-                          <h4 className="timeline-title">Web Developer</h4>
+                          <h4 className="timeline-title">JavaScript(basics)</h4>
                           <p className="timeline-text">
-                            Since 2020 I started to learn Coding. I have learn
-                            Html, Css, Sass, JavaScript, Bootstrap. Now I am a
-                            Professional Web Developer..
+                            Since 2021 I started to learn JavaScript. Since I learned Python programming language in 2019, JavaScript was not difficult for me
                           </p>
                         </div>
                         {/* Timeline Item end */}
@@ -179,24 +175,22 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2020
+                            <i className="fa fa-calendar" /> 2022
                           </h6>
-                          <h4 className="timeline-title">Wordpress</h4>
+                          <h4 className="timeline-title">JavaScript (Advenced)</h4>
                           <p className="timeline-text">
-                            Since 2020 I started to learn Wordpress. I can
-                            install, Customize, &amp; fix bug on wordpress.
+                            Since 2022 I started to learn JavaScript advenced. But it seemed a little difficult
                           </p>
                         </div>
                         
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2020
+                            <i className="fa fa-calendar" /> 2023
                           </h6>
-                          <h4 className="timeline-title">Tilda</h4>
+                          <h4 className="timeline-title">ReactJs, NextJs, TypeScript</h4>
                           <p className="timeline-text">
-                            Since 2020 I started to learn Tilda. I can
-                            install, Customize, &amp; fix bug on tilda.{" "}
+                          On October 16, 2023, I came to the educational center "Najot ta&apos;lim". And I got a lot of knowledge and skills from here
                           </p>
                         </div>
                         {/* Timeline Item end */}

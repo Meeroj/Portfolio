@@ -5,7 +5,7 @@ export default async function Home() {
         <div className="container">
           <div className="intro">
             <img src="/imgs/logo.jpg" alt="meeroj portfolio" className="shadow-dark" />
-            <h1>Merojiddin Sirojiddinov&lsquo;s</h1>
+            <h1>Merojiddin Sirojiddinov</h1>
             <p>Frontend Developer</p>
             <div className="social-links">
               <a href="https://twitter.com/Merojiddinxon" target="_blank">

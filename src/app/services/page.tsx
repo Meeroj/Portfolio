@@ -1,5 +1,6 @@
 import type { NextPage } from "next";
 import { FaReact } from "react-icons/fa";
+import { SiMui, SiTailwindcss, SiTypescript } from "react-icons/si";
 import { TbBrandNextjs } from "react-icons/tb";
 
 const Service: NextPage = () => {
@@ -18,9 +19,7 @@ const Service: NextPage = () => {
         <div className="service-item-inner">
           <div className="icon" style={{display:'flex', alignItems:'center', justifyContent:'center'}}><FaReact className="fa fa-paint-brush" /></div>
           <h4>Professional Reactjs Developer</h4>
-          <p>Elevate your brand with a unique and memorable logo. Our expert designers will create a distinctive
-            logo
-            that reflects your business identity and leaves a lasting impression on your audience.</p>
+          <p>I call myself a Professional Reactjs developer. There are many reasons for this decision: firstly, the websites I make have a lot of functionality. Secondly, all my sites are Search engine optimized, etc</p>
         </div>
       </div>
       {/* Service Item 1 End */}
@@ -29,9 +28,7 @@ const Service: NextPage = () => {
         <div className="service-item-inner">
           <div className="icon" style={{display:'flex', alignItems:'center', justifyContent:'center'}}><TbBrandNextjs className="fa fa-paint-brush"/></div>
           <h4>Professional Nextjs User</h4>
-          <p>Create a stunning online presence with our custom web design services. Wel will tailor a website that
-            not only
-            looks impressive but also delivers a seamless user experience, helping you achieve your online goals.
+          <p>I use Nextjs technology very judiciously. This helps the clients' sites to appear higher in the search engine.
           </p>
         </div>
       </div>
@@ -39,33 +36,27 @@ const Service: NextPage = () => {
       {/* Service Item 3: WordPress */}
       <div className="service-item padd-15">
         <div className="service-item-inner">
-          <div className="icon"><i className="fa fa-wordpress" /></div>
-          <h4>WordPress Development</h4>
-          <p>Harness the power of WordPress for your website. Our experts will build a feature-rich and scalable
-            WordPress site that empowers you to manage content effortlessly and stay ahead in the digital
-            landscape.</p>
+          <div className="icon" style={{display:'flex', alignItems:'center', justifyContent:'center'}}><SiTypescript className="fa fa-wordpress" /></div>
+          <h4>TypeScript Developer</h4>
+          <p>I use TypeScript like Master. TypeScript can reduce the number of errors on your site by at least 5 times. Through this, your site will work without errors and defects.</p>
         </div>
       </div>
       {/* Service Item 3 End */}
       {/* Service Item 4: Web Development */}
       <div className="service-item padd-15">
         <div className="service-item-inner">
-          <div className="icon"><i className="fa fa-code" /></div>
-          <h4>Web Development</h4>
-          <p>Turn your digital ideas into reality with our web development solutions. We specialize in crafting
-            robust
-            and dynamic websites that are tailored to meet your specific business needs and objectives.</p>
+          <div className="icon" style={{display:'flex', alignItems:'center', justifyContent:'center'}}><SiMui className="fa fa-code" /></div>
+          <h4>MUI User</h4>
+          <p>With Materialui, I can increase my speed by 10x and it gives me a boost. And it gives you quality</p>
         </div>
       </div>
       {/* Service Item 4 End */}
       {/* Service Item 5: Video Editing */}
       <div className="service-item padd-15">
         <div className="service-item-inner">
-          <div className="icon"><i className="fa fa-film" /></div>
-          <h4>Professional Video Editing</h4>
-          <p>Enhance your video content with our professional video editing services. We will transform your raw
-            footage
-            into polished, engaging videos that captivate your audience and convey your message effectively.</p>
+          <div className="icon" style={{display:'flex', alignItems:'center', justifyContent:'center'}}><SiTailwindcss className="fa fa-film" /></div>
+          <h4>Professional UI builder</h4>
+          <p>With Tailwindcss, your page will be very beautiful and agile. Through this, I build a web page quickly and qualitatively</p>
         </div>
       </div>
       {/* Service Item 5 End */}
