@@ -1,5 +1,5 @@
 import type { NextPage } from "next";
-import { SiNetlify } from "react-icons/si";
+import { SiNetlify, SiVercel } from "react-icons/si";
 
 const Portfolio: NextPage = () => {
   return (
@@ -32,6 +32,19 @@ const Portfolio: NextPage = () => {
           </div>
           <div className="row">
               {/* Portfolio Item */}
+              <div className="portfolio-item padd-15" data-category="web-design">
+              <div className="portfolio-item-inner shadow-dark">
+                <div className="portfolio-img">
+                  <img src="/imgs/portfolio/hyperbrain.png" alt="portfolio" />
+                </div>
+                <div className="portfolio-info">
+                  <h4>HyperBrain is my personal and my best favourite project. This web app is build with Reactjs v19</h4>
+                  <div className="icon"style={{display:'flex', alignItems:'center', justifyContent:'center'}}>
+                  <a href="https://hyper-brain.vercel.app" target="_blank"><SiVercel className="fa fa-search" /></a>
+                  </div>
+                </div>
+              </div>
+            </div>
               <div
               className="portfolio-item padd-15"
               data-category="graphics-design"
