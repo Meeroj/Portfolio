@@ -9,6 +9,7 @@ import Sidebar from "@/components/sidebar/sidebar";
 import Providers from "./providers";
 import ThemeSwitch from "@/components/panel/ThemeSwitch";
 
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
