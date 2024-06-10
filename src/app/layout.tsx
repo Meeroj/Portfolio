@@ -14,7 +14,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "meeFolio - Portfolio web",
-  description: "meeFolio - a Open Source portfolio web application",
+  description: "meeFolio - a Meeroj web Portfolio",
 };
 
 export default function RootLayout({
